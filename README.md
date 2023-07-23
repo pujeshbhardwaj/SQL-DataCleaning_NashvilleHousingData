@@ -27,6 +27,7 @@ The Nashville Housing Data consists of the following essential columns:
 - Owner_Address: The owner's house address, when available.
 - OwnerCity: The city where the owner resides, providing additional owner information.
 - OwnerState: The state where the owner is located, offering geographic context.
+  
 SQL Techniques Used
 Throughout this project, I employed various SQL techniques for data analysis purposes, including:
 
