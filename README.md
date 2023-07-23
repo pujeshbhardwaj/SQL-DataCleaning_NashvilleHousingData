@@ -31,11 +31,11 @@ The Nashville Housing Data consists of the following essential columns:
 SQL Techniques Used
 Throughout this project, I employed various SQL techniques for data analysis purposes, including:
 
-Data Selection: Extracting relevant subsets of data to focus on specific analyses. 
-Data Aggregation: Summarizing information using functions like COUNT, SUM, AVG, and more. 
-Data Filtering: Selecting rows based on specific criteria to narrow down our observations. 
-Data Joins: Combining multiple tables to enrich our dataset and gain comprehensive insights. 
-Data Sorting: Arranging the data in meaningful order to facilitate analysis and interpretation. 
+Data Selection: Extracting relevant subsets of data to focus on specific analyses.  
+Data Aggregation: Summarizing information using functions like COUNT, SUM, AVG, and more.  
+Data Filtering: Selecting rows based on specific criteria to narrow down our observations.  
+Data Joins: Combining multiple tables to enrich our dataset and gain comprehensive insights.  
+Data Sorting: Arranging the data in meaningful order to facilitate analysis and interpretation.  
 
 Key Findings
 After conducting in-depth SQL data analysis, we unearthed some exciting findings about Nashville's housing market. We discovered top-performing land uses, identified neighborhoods with high property values, and explored trends in property sales over time. These insights can be invaluable for prospective buyers, real estate agents, and investors looking to make informed decisions in Nashville's dynamic real estate landscape.
