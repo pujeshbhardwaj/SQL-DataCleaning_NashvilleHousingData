@@ -8,25 +8,25 @@ The primary objective of this project is to explore and analyze the Nashville Ho
 Dataset Details
 The Nashville Housing Data consists of the following essential columns:
 
-UniqueID: An identification number attributed to a buyer.
-ParcelID: A code attributed to a land parcel.
-LandUse: Indicates the different uses of land, giving us a glimpse of the city's diverse landscape.
-SalesPrice: The cost of the land, a critical factor for buyers and investors.
-LegalReference: Citation of authoritative documents and sources related to the property.
-OwnerName: The name of the landowner, providing insights into property ownership patterns.
-Acreage: The size of land in acres, revealing the extent of available properties.
-LandValue: The worth of the land, a crucial factor in real estate valuation.
-BuildingValue: The worth of any buildings on the land, influencing the total value.
-TotalValue: The combined value of land and buildings, guiding investment decisions.
-YearBuilt: The year the building was constructed, offering historical context.
-FullBath: The number of bathrooms with shower, bathtub, sink, and toilet.
-HalfBath: The number of half bathrooms with a sink and toilet, contributing to property features.
-Sale_Date: The date when the land was sold, enabling time-based analysis.
-SaleAddress: The address of the land sold, giving us location-specific insights.
-City: The location of the land within Nashville, highlighting different neighborhoods.
-Owner_Address: The owner's house address, when available.
-OwnerCity: The city where the owner resides, providing additional owner information.
-OwnerState: The state where the owner is located, offering geographic context.
+- UniqueID: An identification number attributed to a buyer.
+- ParcelID: A code attributed to a land parcel.
+- LandUse: Indicates the different uses of land, giving us a glimpse of the city's diverse landscape.
+- SalesPrice: The cost of the land, a critical factor for buyers and investors.
+- LegalReference: Citation of authoritative documents and sources related to the property.
+- OwnerName: The name of the landowner, providing insights into property ownership patterns.
+- Acreage: The size of land in acres, revealing the extent of available properties.
+- LandValue: The worth of the land, a crucial factor in real estate valuation.
+- BuildingValue: The worth of any buildings on the land, influencing the total value.
+- TotalValue: The combined value of land and buildings, guiding investment decisions.
+- YearBuilt: The year the building was constructed, offering historical context.
+- FullBath: The number of bathrooms with shower, bathtub, sink, and toilet.
+- HalfBath: The number of half bathrooms with a sink and toilet, contributing to property features.
+- Sale_Date: The date when the land was sold, enabling time-based analysis.
+- SaleAddress: The address of the land sold, giving us location-specific insights.
+- City: The location of the land within Nashville, highlighting different neighborhoods.
+- Owner_Address: The owner's house address, when available.
+- OwnerCity: The city where the owner resides, providing additional owner information.
+- OwnerState: The state where the owner is located, offering geographic context.
 SQL Techniques Used
 Throughout this project, I employed various SQL techniques for data analysis purposes, including:
 
