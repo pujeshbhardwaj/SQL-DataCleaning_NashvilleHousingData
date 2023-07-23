@@ -1,4 +1,4 @@
-##**Nashville Housing Data Analysis with SQL**
+## **Nashville Housing Data Analysis with SQL**
 Overview
 Welcome to my data analysis project, where we dive into the fascinating world of Nashville Housing Data using SQL in Microsoft SQL Management Studio. This dataset contains a wealth of statistics about land use and properties in Nashville, the vibrant capital city of Tennessee, USA.
 
